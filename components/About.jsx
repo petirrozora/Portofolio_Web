@@ -26,8 +26,8 @@ export default function About() {
     "Artificial Intelligence",
     "Software Engineer",
     "Computational Math",
-    "Data Science",
-    "Machine Learning",
+    "Data Mining",
+    "Networking",
     "Web Development",
   ];
 

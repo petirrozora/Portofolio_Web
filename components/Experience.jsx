@@ -32,13 +32,7 @@ export default function Experience() {
       place: "Bowo jok Bekasi",
       title: "Web Developer (Intern)",
       desc: "Built a responsive product catalog website with secure authentication, full product CRUD, image uploads, and an optimized admin dashboard, improving overall user browsing experience.",
-    },
-    {
-      period: "2024 - Present",
-      place: "Tarumanagara Foundation",
-      title: "Marketing Team (Part-time)",
-      desc: "Represented the university at school fairs, presentations, and promotional events.",
-    },
+    }
   ];
 
   const timelineData = tab === "academic" ? academicData : experienceData;
