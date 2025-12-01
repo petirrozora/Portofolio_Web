@@ -141,10 +141,10 @@ export default function Hero() {
   <div className="text-center">
     <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-black 
       bg-gradient-to-r from-purple-400 to-pink-600 text-transparent bg-clip-text">
-      3+
+      5
     </p>
     <p className="text-[9px] sm:text-xs md:text-sm text-gray-600 dark:text-gray-400 font-medium mt-1">
-      Years Exp
+      Month Exp
     </p>
   </div>
 
